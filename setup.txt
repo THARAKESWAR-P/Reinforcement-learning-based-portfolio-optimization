@@ -1,0 +1,9 @@
+pandas
+matplotlib
+scikit-learn
+tensorflow
+tqdm
+tf_agents
+tensorflow_probability==0.24.0
+tf_keras
+
